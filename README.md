@@ -147,6 +147,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [300+ MCQ Questions on C++ With Answers](https://www.siteforinfotech.com/p/c-mcq-sets.html#C_MCQ_Questions_Collections-2)
 
 ### C
 
@@ -191,6 +192,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
 * [Front End Interview Handbook - CSS Questions and Answers](https://frontendinterviewhandbook.com/css-questions/)
+* [Top 100 MCQ Questions on CSS with Answers](https://www.siteforinfotech.com/p/web-designing-mcqs.html#Cascading_Style_Sheet_CSS)
 
 ### Cucumber
 
@@ -249,6 +251,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+* [Top 100+ Multiple Choice Objective Questions on HTML with Answers](https://www.siteforinfotech.com/p/web-designing-mcqs.html#HTML5)
 
 ### Ionic
 
@@ -301,6 +304,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 * [Essetial Java Interview Questions](https://fdk.codes/some-java-interview-questions/)
 * [Fundamental Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+* [1000+ Multiple Choice Questions on Java with Answers](https://www.siteforinfotech.com/p/java-mcq-sets.html)
 
 ### JavaScript
 
@@ -329,6 +333,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+* [200+ JavaScript MCQ Questions with Answers](https://www.siteforinfotech.com/p/javascript-interview-mcq-questions.html)
 
 ### jQuery
 
@@ -388,6 +393,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
 * [PHP Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-php-interview-questions-answers/)
 * [30+ PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
+* [300+ Interview Questions on PHP with Answers](https://www.siteforinfotech.com/p/web-designing-mcqs.html#PHP)
 
 ### Python
 
